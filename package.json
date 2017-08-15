@@ -1,0 +1,26 @@
+{
+  "name": "is_type",
+  "version": "1.0.0",
+  "description": "utility of check type",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huben/is_type.git"
+  },
+  "keywords": [
+    "typeof node"
+  ],
+  "author": "huben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huben/is_type/issues"
+  },
+  "homepage": "https://github.com/huben/is_type#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
